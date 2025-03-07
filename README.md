@@ -1,2 +1,2 @@
 # Spacetime
-Spacetime Fracta Copacity Theory
+Spacetime Fracta Compacity Theory
